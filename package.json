@@ -1,0 +1,22 @@
+{
+  "name": "@juliasenina/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliaSenina/ajs.git"
+  },
+  "keywords": [
+    "ajs"
+  ],
+  "author": "JuliaSenina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuliaSenina/ajs/issues"
+  },
+  "homepage": "https://github.com/JuliaSenina/ajs#readme"
+}
